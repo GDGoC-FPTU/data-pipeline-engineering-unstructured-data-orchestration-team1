@@ -9,7 +9,7 @@ from quality_check import run_semantic_checks
 
 # ==========================================
 # ROLE 4: DEVOPS & INTEGRATION SPECIALIST
-# ==========================================
+# =========================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 RAW_DATA_DIR = os.path.join(BASE_DIR, "..", "raw_data")
